@@ -1,6 +1,6 @@
 # 5G_HorizontalSlicing
 
-The source code is avaialble.
+The source code is avaialble in: 5G Slicing SourceCode.m 
 
 The database is available 
 
